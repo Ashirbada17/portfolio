@@ -14,6 +14,6 @@ Contact
 
 Email: mohantyashirbada335@gmail.com
 
-LinkedIn: linkedin.com/in/ashirbada
+LinkedIn: www.linkedin.com/in/ashirbadamohanty
 
-Portfolio Live: yourwebsite.com
+Portfolio Live: https://ashirbadasportfolio.onrender.com/
