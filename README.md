@@ -17,7 +17,7 @@ A modern portfolio showcasing my work as a **Java Backend Engineer**, featuring 
 
 ## 🔗 Live Demo
 
-> Add your portfolio URL here.
+> https://portfolio-egiq.onrender.com/
 
 ---
 
